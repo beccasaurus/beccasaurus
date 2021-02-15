@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello, I'm Bex 👋
 
-<!--
-**beccasaurus/beccasaurus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> <-- and this is my dog Parker 🐶
 
-Here are some ideas to get you started:
+I'm an agile software developer with a love for helping other developers!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💝T op Passions
+> Developer Relations, API Design, Client Libraries & Developer Tooling
+
+### 👩‍💻 Top Skills
+> Empathy, Mentoring, Team Leadership
+
+### ⚡ Fun Fact
+> I'm GitHub user [`#280`](https://caius.github.io/github_id/#beccasaurus)
+
+### 📫 How to Reach Me
+> Message me over on [my LinkedIn profile](https://www.linkedin.com/in/rebeccataylorr/)
