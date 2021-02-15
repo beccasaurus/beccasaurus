@@ -4,7 +4,7 @@
 
 I'm an agile software developer with a love for helping other developers!
 
-### 💝T op Passions
+### 💝 Top Passions
 > Developer Relations, API Design, Client Libraries & Developer Tooling
 
 ### 👩‍💻 Top Skills
