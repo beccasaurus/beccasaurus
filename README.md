@@ -15,6 +15,9 @@ I'm an agile software developer with a love for helping other developers!
 
 ### 💎 Languages
 > I have been writing both Ruby and C# for over 15 years (_since 2005_)
+ 
+### 👩‍💻 Projects
+> I am currently working on authoring my first programming language!
 
 ### 📫 How to Reach Me
 > Message me over on [my LinkedIn profile](https://www.linkedin.com/in/rebeccataylorr/)
