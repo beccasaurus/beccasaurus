@@ -1,8 +1,6 @@
 ## Hello, I'm Bex 👋
 
-> <-- and this is my dog Parker 🐶
-
-I'm an agile software developer with a love for helping other developers!
+I'm an Agile Software Developer with a love for helping other developers!
 
 ### 💝 Top Passions
 > Developer Relations, API Design, Client Libraries & Developer Tooling
