@@ -15,6 +15,8 @@ I'm an Agile Software Developer with a love for helping other developers!
 
 ### 💎 Languages
 > I have been writing both Ruby and C# for over 15 years (_since 2005_)
+>
+> My latest most adored languages are: C++ and Python
  
 ### 👩‍💻 Projects
 > I am currently working on authoring my first technical book!
