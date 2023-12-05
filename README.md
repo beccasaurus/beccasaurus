@@ -19,7 +19,7 @@ I'm an Agile Software Developer with a love for helping other developers!
 > My latest most adored languages are: C++ and Python
  
 ### 👩‍💻 Projects
-> I am currently working on authoring my first technical book!
+> I have been doing game development since 2021 (_under a different name_)
 
 ### 📫 How to Reach Me
 > Message me over on [my LinkedIn profile](https://www.linkedin.com/in/rebeccataylorr/)
