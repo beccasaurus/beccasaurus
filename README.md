@@ -1,10 +1,10 @@
 > _Note: since 2021, I have been doing my open source development from a different GitHub account_
 >
-> _If you want to reach me, please message me on [my LinkedIn profile](https://www.linkedin.com/in/rebeccataylorr/)_
+> _If you want to reach me, please message me on [my LinkedIn profile](https://www.linkedin.com/in/beccasaurus/)_
 
 ## Hello, I'm Bex 👋
 
-I'm an Agile Software Developer with a love for helping other developers!
+I'm an Agile Software Engineering Leader with almost 20 years experience leading highly performing agile software delivery teams.
 
 ### 💝 Top Passions
 > Developer Relations, API Design, Client Libraries & Developer Tooling
@@ -24,4 +24,4 @@ I'm an Agile Software Developer with a love for helping other developers!
 > I have been doing game development since 2021 (_under a different name_)
 
 ### 📫 How to Reach Me
-> Message me over on [my LinkedIn profile](https://www.linkedin.com/in/rebeccataylorr/)
+> Message me over on [my LinkedIn profile](https://www.linkedin.com/in/beccasaurus/)
