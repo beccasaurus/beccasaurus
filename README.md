@@ -1,4 +1,6 @@
 > _Note: since 2021, I have been doing my open source development from a different GitHub account_
+>
+> _If you want to reach me, please message me on [my LinkedIn profile](https://www.linkedin.com/in/rebeccataylorr/)_
 
 ## Hello, I'm Bex 👋
 
@@ -14,7 +16,7 @@ I'm an Agile Software Developer with a love for helping other developers!
 > I'm GitHub user [`#280`](https://caius.github.io/github_id/#beccasaurus)
 
 ### 💎 Languages
-> I have been writing both Ruby and C# for over 15 years (_since 2005_)
+> I have been writing both Ruby and C# for almost 20 years (_since 2005_)
 >
 > My latest most adored languages are: C++ and Python
  
