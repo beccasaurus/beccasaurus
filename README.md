@@ -6,7 +6,7 @@
 > - C#, Ruby, Dart, BASH (_I made a number of complex BASH projects for fun!_), some TypeScript/JavaScript, and more
 >
 > My NEWER GitHub has all of my latest projects, mostly in the following languages:
-> - Modern C++, some TypeScript, and a proprietary game language
+> - Modern C++, some Python, some TypeScript, and a proprietary game language
 >
 > **Employers**: _you can find my latest GitHub on my resume_
 
