@@ -1,7 +1,5 @@
 > _Note: since 2021, I have been doing my open source development from a different GitHub account_
 >
-> _If you want to reach me, please message me on [my LinkedIn profile](https://www.linkedin.com/in/beccasaurus/)_
->
 > This [@beccasaurus](https://github.com/beccasaurus) GitHub has projects from the first 15+ years of my software development career and hobby, mostly in the following languages:
 > - C#, Ruby, Dart, BASH (_I made a number of complex BASH projects for fun!_), some TypeScript/JavaScript, and more
 >
