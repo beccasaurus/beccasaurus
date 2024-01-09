@@ -10,9 +10,9 @@
 >
 > **Employers**: _you can find my latest GitHub on my resume_
 
-## Hello, I'm Bex 👋
+## Hello, I'm Rebecca 👋
 
-I'm an Agile Software Engineering Leader with almost 20 years experience leading highly performing agile software delivery teams.
+**I'm an Agile Software Engineering Leader with almost 20 years experience leading highly performing agile teams.**
 
 ### ⚡ Fun Fact
 > I'm GitHub user [`#280`](https://caius.github.io/github_id/#beccasaurus)
